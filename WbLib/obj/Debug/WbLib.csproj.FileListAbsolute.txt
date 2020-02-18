@@ -1,0 +1,5 @@
+d:\DevOpsEx\WebApp\WbLib\bin\Debug\WbLib.dll
+d:\DevOpsEx\WebApp\WbLib\bin\Debug\WbLib.pdb
+d:\DevOpsEx\WebApp\WbLib\obj\Debug\WbLib.csproj.CoreCompileInputs.cache
+d:\DevOpsEx\WebApp\WbLib\obj\Debug\WbLib.dll
+d:\DevOpsEx\WebApp\WbLib\obj\Debug\WbLib.pdb

@@ -1,0 +1,16 @@
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\WebLibTest.dll
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\WebLibTest.pdb
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\WbLib.dll
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\WbLib.pdb
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+d:\DevOpsEx\WebApp\WebLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+d:\DevOpsEx\WebApp\WebLibTest\obj\Debug\WebLibTest.csprojAssemblyReference.cache
+d:\DevOpsEx\WebApp\WebLibTest\obj\Debug\WebLibTest.csproj.CoreCompileInputs.cache
+d:\DevOpsEx\WebApp\WebLibTest\obj\Debug\WebLibTest.csproj.CopyComplete
+d:\DevOpsEx\WebApp\WebLibTest\obj\Debug\WebLibTest.dll
+d:\DevOpsEx\WebApp\WebLibTest\obj\Debug\WebLibTest.pdb
